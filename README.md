@@ -22,5 +22,4 @@ All plots are saved in the `plots/` folder.
 - seaborn
 - scipy
 =======
-# Trading-Sentiment-Analysis
->>>>>>> 578590cada75c66a758eff03bc3c94a12b15b61a
+
